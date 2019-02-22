@@ -1,0 +1,5 @@
+Sources for Prusa MK2 Raspi Cam Case and Bed Mount
+
+Prusa MK2 Camera Bed Mount (http://www.thingiverse.com/thing:1646474)
+Raspberry pi camera case/enclosure (http://www.thingiverse.com/thing:92208)
+Prusa i3 MK2 Raspberry Pi Camera Heatbed Mount Remix (http://www.thingiverse.com/thing:1734736)
